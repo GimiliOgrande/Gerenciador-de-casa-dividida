@@ -1,4 +1,4 @@
-# House Manager
+# House Manager 1.0
 
 Aplicacao web para gerenciar casas alugadas compartilhadas. A ideia principal e ajudar moradores a controlar aluguel, contas, pagamentos, tarefas domesticas e responsabilidades da casa em um unico lugar.
 
